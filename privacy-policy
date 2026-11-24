@@ -1,0 +1,59 @@
+# Privacy Policy for Meld
+
+**Last updated: 24 November 2026**
+
+## 1. Introduction
+
+Meld is an independently developed, non-commercial desktop application designed to provide convenient access to multiple communication services within a single interface.
+
+Meld follows a local-first approach, prioritising user privacy, data ownership and control. It integrates existing communication services without operating its own messaging network or cloud-based email storage service.
+
+## 2. Information accessed
+
+Depending on the connected services and enabled features, Meld may access and process the following information:
+
+### Gmail
+
+- Google account information, including name and email address.
+- Email messages, subjects, attachments and message metadata.
+- Sender and recipient information.
+- Mailbox folders, labels and message statuses.
+- Drafts and sent messages.
+- Authentication and authorisation tokens.
+
+Access is granted through Google's official OAuth 2.0 authorisation process and Gmail API.
+
+### WhatsApp
+
+Meld provides access to WhatsApp through its official web interface. WhatsApp may store authentication information, session data and other information required to operate WhatsApp Web on the user's device.
+
+### Signal
+
+Meld provides companion functionality for Signal. Signal communications remain subject to Signal's own privacy and security practices.
+
+Meld does not operate an independent Signal messaging service.
+
+### Application data
+
+Meld may store application preferences, interface settings, connected account configurations, cached content and backup information.
+
+## 3. How information is used
+
+Information accessed by Meld is used exclusively to provide and maintain its functionality, including:
+
+- Displaying and organising emails and communications.
+- Composing, sending and replying to emails.
+- Searching, synchronising and managing mailboxes.
+- Providing offline access to previously downloaded emails.
+- Managing connected accounts and authenticated sessions.
+- Creating and restoring application backups.
+- Maintaining application settings and preferences.
+- Troubleshooting technical issues.
+
+Personal information is not used for advertising, marketing, behavioural profiling, commercial purposes or artificial intelligence training.
+
+## 4. Local data storage
+
+Meld is designed to store application data locally on the user's device.
+
+This may include downloaded
